@@ -257,6 +257,7 @@ body:not(.dark) .cn1-brand-logo {
     left: 0;
     right: 0;
     height: 40px;
+    z-index: 50;
     background: var(--cn1-home-strip-bg);
     display: flex;
     align-items: center;
